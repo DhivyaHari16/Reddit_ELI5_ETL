@@ -1,0 +1,6 @@
+boto3
+python-dotenv
+psaw
+praw
+prawcore
+demjson3
