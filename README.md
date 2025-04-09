@@ -11,7 +11,7 @@ ________________________________________
 •	Visualize insights in an interactive dashboard. <br>
 
 ### Architecture 
-![image](https://github.com/user-attachments/assets/75260fe0-1fce-40c8-822c-09e5518937b0)
+![image](https://github.com/user-attachments/assets/3ddc384e-e0b4-4ce7-a5e2-7e0e2a10116b)
 
 ### Components
 ________________________________________
