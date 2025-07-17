@@ -48,7 +48,7 @@ ________________________________________
 •	Docker + Docker Compose<br>
 •	Python 3.10+<br>
 ##### 1. Clone the Repo
-`git clone <<TO BE ADDED>>>`
+`git clone https://github.com/DhivyaHari16/Reddit_ELI5_ETL.git`
 ##### 2. Environment Variables
 Update .env or use Airflow Connections for:<br>
 •	Reddit API credentials<br>
